@@ -37,4 +37,4 @@ DevOps：Docker、Jenkins
 ```
 
 ### 证书
-- [PMP项目管理证书](https://www.pmi.org, 'Project Management Institute | PMI ')
+- [PMP项目管理证书](https://www.pmi.org 'Project Management Institute | PMI ')
