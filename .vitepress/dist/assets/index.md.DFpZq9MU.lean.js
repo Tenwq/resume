@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as l,a2 as i}from"./chunks/framework.B-txZ_NU.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),n={name:"index.md"},t=i("",16),s=[t];function r(o,c,p,h,d,u){return l(),e("div",null,s)}const b=a(n,[["render",r]]);export{m as __pageData,b as default};

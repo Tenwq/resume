@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as l,a2 as i}from"./chunks/framework.B-txZ_NU.js";const m=JSON.parse('{"title":"王齐-个人简历","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),n={name:"README.md"},t=i("",18),s=[t];function r(o,c,h,p,d,u){return l(),e("div",null,s)}const b=a(n,[["render",r]]);export{m as __pageData,b as default};
